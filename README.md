@@ -1,2 +1,4 @@
 # A Simple Game of Snake
-Snake.sln contains the .cpp file containing the code for the Snake game!
+
+Snake > Snake > Snake.cpp -> contains the codes for the Snake game algorithms!
+
